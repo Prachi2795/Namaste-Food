@@ -33,7 +33,7 @@ export default function Footer() {
         <p>Terms and conditions</p>
         <p>Privacy Policy</p>
         <div>
-          This site is developed by Arvind Pandit - arvindpandit9808@gmail.com
+          This site is developed by Prachi Singh - <a href="mailto:prachi.singh9527@gmail.com">prachi.singh9527@gmail.com</a>
         </div>
       </div>
     </div>

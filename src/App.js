@@ -11,8 +11,8 @@ import store from "./utils/store.js";
 
 function App() {
   const [user, setUser] = useState({
-    name: "Arvind Pandit",
-    email: "arvindpandit9808@gmail.com",
+    name: "Prachi Singh",
+    email: "prachi.singh9527@gmail.com",
   });
   return (
     <div className="bg-[#FFFFFF] font-sans overflow-x-hidden">

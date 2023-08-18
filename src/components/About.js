@@ -13,14 +13,14 @@ const About = () => {
         <div className="flex flex-col w-full  md:w-3/5">
           <div className="flex flex-wrap justify-center md:justify-start gap-3 mt-4 md:mt-28 mb-7 ">
             <p className="text-4xl md:text-8xl font-bold text-[#3F4255]">
-              arvind
+              Prachi
             </p>
             <div className="flex  gap-1 md:flex-col justify-center">
               <p className="text-4xl md:text-5xl font-bold text-[#9093A6]">
-                pandit
+                Singh
               </p>
               <p className="text-4xl md:text-5xl font-bold text-[#9093A6]">
-                prajapati:)
+                The Artist:)
               </p>
             </div>
           </div>
@@ -32,32 +32,18 @@ const About = () => {
 
           <div className="flex justify-center md:justify-start gap-5 my-4 ">
             <a
-              href="https://www.linkedin.com/in/arvindpndit"
+              href="https://www.linkedin.com/in/singhprachi9527/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <BsLinkedin className="text-5xl text-[#0A66C2] hover:cursor-pointer hover:scale-95 duration-200" />
             </a>
             <a
-              href="https://github.com/arvindpndit"
+              href="https://github.com/Prachi2795/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <BsGithub className="text-5xl hover:cursor-pointer hover:scale-95 duration-200" />
-            </a>
-            <a
-              href="https://auth.geeksforgeeks.org/user/arvindpndit/practice"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <SiGeeksforgeeks className="text-5xl text-green-600 hover:cursor-pointer hover:scale-95 duration-200" />
-            </a>
-            <a
-              href="https://leetcode.com/arvindpndit/"
-              target="_blank"
-              rel="noopener noreferrer"
-            >
-              <SiLeetcode className="text-5xl text-red-500 hover:cursor-pointer hover:scale-95 duration-200" />
             </a>
           </div>
         </div>
