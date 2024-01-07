@@ -17,9 +17,6 @@
     "url": "git+https://github.com/Prachi2795/"
   },
   "author": "Prachi Singh",
-  "bugs": {
-    "url": "https://github.com/arvindpndit/Namaste-Food/issues"
-  },
   "scripts": {
     "start": "react-scripts start && node ./src/setupProxy.js",
     "build": "react-scripts build",
