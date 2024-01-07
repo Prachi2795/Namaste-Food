@@ -8,14 +8,14 @@ Namaste Food is large scalable food ordering appilication which uses Swiggy's AP
 
 ## Author
 
-- [@arvindpndit](https://www.github.com/arvindpndit)
+- [@prachisingh](https://www.github.com/Prachi2795)
 
 ## 🔥 Clone this Repository
 
 You need to write the following commands on the terminal screen(in vscode) so that you can run this project locally.
 
 ```bash
-  git clone "https://github.com/arvindpndit/Namaste-Food.git"
+  git clone "https://github.com/Prachi2795/Namaste-Food.git"
 ```
 
 Go to the project directory
@@ -40,4 +40,4 @@ This application should now be running on `localhost`. If you want to Fork repos
 
 ## 🔗 Let's Connect
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arvindpndit/)
+[![linkedin](https://www.linkedin.com/in/singhprachi9527/)
